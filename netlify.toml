@@ -1,0 +1,7 @@
+[build]
+  publish = "public/"
+
+[functions]
+  directory = "api/"
+  external_node_modules = ["sharp"]
+  included_files = ["node_modules/sharp/**/*"]
