@@ -1,4 +1,4 @@
-😸 PurrPal: Connecting Cat Lovers On Farcaster 
+**😸 PurrPal: Connecting Cat Lovers On Farcaster**
 
 This is an incomplete project started at the Superhack 2024 hackathon.
 The goal of the project is to create an interactive Farcaster frame inspired by Waifu, but centered around cat lovers' interactions and creativity. The application has several innovative features: 
